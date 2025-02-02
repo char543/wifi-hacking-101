@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+98:42:65:D2:8E:47, 2025-01-23 01:26:45, 2025-01-23 01:39:35,  6, 195, WPA2, CCMP, PSK, -83,     7150,     1258,   0.  0.  0.  0,  14, TALKTALKD28E4A, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+1A:42:32:D1:80:47, 2025-01-23 01:26:45, 2025-01-23 01:35:10, -60,      102, 98:42:65:D2:8E:47,
+
